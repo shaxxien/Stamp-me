@@ -1,0 +1,6 @@
+{
+  "name": "The stamp bridge",
+  "description": "An aesthetic, minimalist anonymous postal sanctuary and private reply bridge for Medical Technology students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

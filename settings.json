@@ -1,0 +1,17 @@
+{
+  "ownerPin": "medtech123",
+  "recipientTitle": "The Bridge Keeper (Clinical Lab Intern / Officer)",
+  "welcomeNote": "Welcome to The Stamp Bridge. Whether you just survived a 16-hour blood bank duty, failed a slide exam, or just need to say something you could never say out loud in the lab — drop your stamp here. I read every letter and reply privately.",
+  "siteHeadline": "The stamp bridge",
+  "theme": {
+    "palette": "sage",
+    "primaryColor": "#3B5337",
+    "primaryDark": "#2A3A29",
+    "bgColor": "#F8FAF7",
+    "cardColor": "#FFFFFF",
+    "borderColor": "#CFDBCB",
+    "fontStyle": "editorial",
+    "paperTexture": "ruled",
+    "stampBorder": "perforated"
+  }
+}

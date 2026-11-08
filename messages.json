@@ -1,0 +1,65 @@
+[
+  {
+    "id": "msg_1794061174422_e2wc5",
+    "accessCode": "STAMP-JBQU",
+    "category": "duty_shift",
+    "stampDesign": "hematology_slide",
+    "senderAlias": "Night Owl MedTech",
+    "recipientName": "The Bridge Keeper",
+    "content": "Surviving the 3rd shift in the ER lab. Thank you for this bridge!",
+    "createdAt": "2026-11-07T14:19:34.422Z",
+    "status": "replied",
+    "replies": [
+      {
+        "id": "rep_1794061178670_vd5u",
+        "sender": "owner",
+        "content": "Proud of you for surviving the night shift! Stay hydrated and get some good sleep.",
+        "createdAt": "2026-11-07T14:19:38.670Z"
+      }
+    ],
+    "pinned": false,
+    "archived": false
+  },
+  {
+    "id": "stamp_demo_01",
+    "accessCode": "STAMP-MED1",
+    "category": "duty_shift",
+    "stampDesign": "hematology_slide",
+    "senderAlias": "Third-Year Intern on Night Duty",
+    "recipientName": "The Bridge Keeper",
+    "content": "It was 3:30 AM in the ER lab and we had three code red traumas at once. My hands were shaking while doing the emergency crossmatching. Nobody noticed I almost cried behind the centrifuge. I just needed to tell someone who understands how heavy that glass tube feels.",
+    "createdAt": "2026-11-06T12:19:29.020Z",
+    "status": "replied",
+    "pinned": true,
+    "archived": false,
+    "replies": [
+      {
+        "id": "reply_demo_01",
+        "sender": "owner",
+        "content": "Your hands may have been trembling, but you still spun those tubes and kept those patients safe. Crossmatching under code red adrenaline is something only another MedTech can truly comprehend. Take a deep breath, get some warm tea, and be proud of yourself tonight. You did incredible.",
+        "createdAt": "2026-11-06T20:19:29.021Z"
+      }
+    ]
+  },
+  {
+    "id": "stamp_demo_02",
+    "accessCode": "STAMP-BIO2",
+    "category": "board_exam",
+    "stampDesign": "gram_negative",
+    "senderAlias": "Graduating MedTech Senior",
+    "recipientName": "The Bridge Keeper",
+    "content": "Review season is suffocating. I keep mixing up biochemical reactions of Enterobacteriaceae (TSI, IMViC, urease). What if I let my parents down? Sending this out into the ether hoping for a little sign that things will be okay.",
+    "createdAt": "2026-11-07T06:19:29.021Z",
+    "status": "replied",
+    "pinned": false,
+    "archived": false,
+    "replies": [
+      {
+        "id": "reply_demo_02",
+        "sender": "owner",
+        "content": "Take it one test tube at a time! Even veteran chief medical technologists still double-check their charts for lactose fermentation and citrate. Your worth as a scientist and human is not defined by one practice test. Trust the muscle memory of all those sleepless library nights. You will cross this bridge into RMT status.",
+        "createdAt": "2026-11-07T10:19:29.021Z"
+      }
+    ]
+  }
+]

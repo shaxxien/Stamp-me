@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+  --theme-primary: #3B5337;
+  --theme-primary-dark: #2A3A29;
+  --theme-bg: #F8FAF7;
+  --theme-card: #FFFFFF;
+  --theme-border: #CFDBCB;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.98); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-sage-50: #F4F7F4;
+  --color-sage-100: #E6ECE5;
+  --color-sage-200: #CFDBCB;
+  --color-sage-300: #AAC0A5;
+  --color-sage-400: #81A27B;
+  --color-sage-500: #5F8359;
+  --color-sage-600: #4A6945;
+  --color-sage-700: #3B5337;
+  --color-sage-800: #31432E;
+  --color-sage-900: #1D2A20;
+  --color-sage-950: #0E1610;
+
+  --color-cream-50: #FCFDFB;
+  --color-cream-100: #F7F9F5;
+  --color-cream-200: #EDF1EA;
+}
+
+/* Philatelic stamp perforated border simulation */
+.stamp-serration {
+  background: radial-gradient(circle at 100% 50%, transparent 4px, white 4px);
+}
+
+.stamp-border {
+  border: 2px dashed #CFDBCB;
+  box-shadow: 0 0 0 3px white, 0 10px 25px -5px rgba(29, 42, 32, 0.08);
+}
+
+/* Subtle lined paper texture for letter writing */
+.letter-ruled {
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 31px,
+    #E6ECE5 31px,
+    #E6ECE5 32px
+  );
+  line-height: 32px;
+}
